@@ -21,7 +21,7 @@ const Banner = () => {
           {/* <div className='i-description'>
                         An aspiring MERN Stack Developer.I lost myself when I dive into the codes. I am a professional web designer and developer.No
                     </div> */}
-          <a href="https://drive.google.com/uc?export=download&id=1nMf-DVHW2wxz-MxxJ5ZReIxUr3mM-xLW">
+          <a href="https://drive.google.com/uc?export=download&id=1EyWM38RJacMhf9YB1KcrjLRsGqIdF7EM">
             <button
               type="button"
               style={{
@@ -30,7 +30,7 @@ const Banner = () => {
                 fontWeight: 600,
                 margin: "20px",
               }}
-              class="btn btn-info"
+              className="btn btn-info btn-color"
             >
               My Resume
             </button>

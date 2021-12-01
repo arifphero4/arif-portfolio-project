@@ -1,0 +1,18 @@
+.heading-color{
+    color:  #E76F51;
+}
+.fa-star {
+    font-size: 1.25rem;
+  }
+  .fa-star.filled {
+   color:#ff9914 ; 
+  }
+  .fa-star.empty {
+   color:#ff9914 ; 
+  }
+  .style-img{
+    width: 431.2px;
+    height: 423.5px;
+    left: 157px;
+    top: 3173px;
+  }
